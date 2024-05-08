@@ -1,0 +1,12 @@
+Generate the firmware.bin and littlefs.bin in VS Code & PlatformIO
+- General > Build
+- General > Upload
+- Platform > Build
+- Platform > Upload
+
+Download esptool.py:
+https://github.com/espressif/esptool/releases
+
+Run the below command with firmware.bin and littlefs.bin in the same folder to create a merged bin:
+esptool --chip ESP8266 merge_bin -o merged-flash.bin --flash_mode dio --flash_size 4MB 0x00000000 firmware.bin 0x00300000 littlefs.bin
+
