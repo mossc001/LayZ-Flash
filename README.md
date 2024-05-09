@@ -13,4 +13,4 @@
 
 6. Unplug your ESP from your computer, and plug it in again. Got to the Webpage of the ESP via it's DHCP IP and verify the upload is successful.
 
-If the above does not work correctly, try again as Windows may still be installing the drivers for the ESP COM board.
+If the above does not work correctly, try again as Windows may still be installing the drivers for the ESP COM port.
