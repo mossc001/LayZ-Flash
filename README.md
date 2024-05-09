@@ -5,6 +5,8 @@ To flash your ESP Lay-Z-Spa module, download the ZIP file and unzip to a locatio
 
 Connect your ESP to your computer/laptop using a Micro-USB data cable; ensure that it's a data cable and not a phone charging cable.
 
+Wait for a 1-2 minutes for the drivers to be installed for the ESP by Windows otherwise the flashing file won't see the device!
+
 Double click the "upload.bat" file, give permissions to run, then it will open a Command Prompt and flash the ESP. DO NOT disconnect or close the window whilst it is flashing.
 
 Wait for the process to finish and the window will close itself.
