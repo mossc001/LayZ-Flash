@@ -1,7 +1,7 @@
 # LayZ-Flash
 ## Lay-Z-Spa Flashing Tool
 
-1. To flash your ESP Lay-Z-Spa module, download the ZIP file and unzip to a location on your Desktop or Local C Drive; https://github.com/mossc001/LayZ-Flash/blob/main/flashing-tool.zip
+1. To flash your ESP Lay-Z-Spa module, download the ZIP file and unzip to a location on your Desktop or Local C Drive; https://github.com/mossc001/LayZ-Flash/releases
 
 2. Connect your ESP to your computer/laptop using a Micro-USB data cable; ensure that it's a data cable and not a phone charging cable.
 
