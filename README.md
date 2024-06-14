@@ -1,7 +1,9 @@
 # LayZ-Flash
 ## Lay-Z-Spa Flashing Tool
 
-If you have purchased a **Lay-Z-Spa DIY WiFi Controller - 6-Pin Version**, then you can use this tool to reflash it in the instance of fault, corruption, or to update to the latest version/release. If you wish to purchase a Lay-Z-Spa DIY WiFi Controller, you can purchase them via; https://www.ebay.co.uk/usr/mossc001
+If you have purchased a **Lay-Z-Spa DIY WiFi Controller - 6-Pin or 4-Pin Version**, then you can use this tool to reflash it in the instance of fault, corruption, or to update to the latest version/release. If you wish to purchase a Lay-Z-Spa DIY WiFi Controller (6-Pin Version), you can purchase them via; https://www.ebay.co.uk/usr/mossc001
+
+Requirements: Windows 10 or higher with an available USB port.
 
 1. To flash your ESP Lay-Z-Spa module, download the ZIP file and unzip to a location on your Desktop or Local C Drive; https://github.com/mossc001/LayZ-Flash/releases
 
