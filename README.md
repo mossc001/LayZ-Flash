@@ -15,7 +15,7 @@ Requirements: Windows 10 or higher with an available USB port.
 
 5. Wait for the process to finish; the window will close itself.
 
-6. Unplug your ESP from your computer, and plug it in again. Got to the Webpage of the ESP via it's DHCP IP and verify the upload is successful.
+6. Unplug your ESP from your computer, and plug it in again. Go to the Webpage of the ESP via it's DHCP IP and verify the upload is successful.
 
 If the above does not work correctly, try again as Windows may still be installing the drivers for the ESP COM port.
 
