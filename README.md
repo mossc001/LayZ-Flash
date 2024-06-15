@@ -7,11 +7,15 @@ Requirements: Windows 10 or higher with an available USB port.
 
 1. To flash your ESP Lay-Z-Spa module, download the ZIP file and unzip to a location on your Desktop or Local C Drive; https://github.com/mossc001/LayZ-Flash/releases
 
+<img src="https://github.com/mossc001/LayZ-Flash/blob/main/v1.1.0_flashing-tool_window.png" width="700">
+
 2. Connect your ESP to your computer/laptop using a Micro-USB data cable; ensure that it's a data cable and not a phone charging cable.
 
 3. Wait for a 1-2 minutes for the drivers to be installed for the ESP by Windows otherwise the flashing file won't see the device!
 
 4. Double click the "upload.bat" file, give permissions to run, then it will open a Command Prompt and flash the ESP. DO NOT disconnect or close the window whilst it is flashing.
+
+<img src="https://github.com/mossc001/LayZ-Flash/blob/main/v1.1.0_flashing-tool_command.png" width="700">
 
 5. Wait for the process to finish; the window will close itself.
 
