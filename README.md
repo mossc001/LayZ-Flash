@@ -19,7 +19,9 @@ Requirements: Windows 10 or higher with an available USB port.
 
 5. Wait for the process to finish; the window will close itself.
 
-6. Unplug your ESP from your computer, and plug it in again. Go to the Webpage of the ESP via it's DHCP IP and verify the upload is successful.
+6. Unplug your ESP from your computer, and plug it in again. Go to the Webpage of the ESP via it's DHCP IP (or http://layzspa.local) or in later versions (after version 1.2.5) go to http://192.168.4.2/wifi.html and verify the upload is successful.
+
+7. Configure your device via the DHCP IP (pre-version 1.2.5) or via ttp://192.168.4.2/wifi.html (after version 1.2.5). After configuring to your local WiFi AP, access it via the IP assigned by your local network.
 
 If the above does not work correctly, try again as Windows may still be installing the drivers for the ESP COM port.
 
