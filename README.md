@@ -15,7 +15,7 @@ Requirements: Windows 10 or higher with an available USB port.
 
 4. Double click the "upload.bat" file; Windows may prompt you as it's an unrecognised Application. Click "More Info", then click "Run anyway" on the proceeding screen.
 
-<img src="https://github.com/mossc001/LayZ-Flash/blob/main/flashing_tool_protected.jpg" width="700">
+<img src="https://github.com/mossc001/LayZ-Flash/blob/main/flashing_tool_protected.jpg" width="500">
 
 5. Once permissions have been granted, it will open a Command Prompt and flash the ESP. DO NOT disconnect or close the window whilst it is flashing.
 
