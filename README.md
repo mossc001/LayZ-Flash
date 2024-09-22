@@ -25,7 +25,7 @@ Requirements: Windows 10 or higher with an available USB port.
 
 7. Unplug your ESP from your computer, and plug it in again. Go to the Webpage of the ESP via it's DHCP IP (or http://layzspa.local) or in later versions (after version 1.2.5) go to http://192.168.4.2/wifi.html and verify the upload is successful.
 
-8. Configure your device via the DHCP IP (pre-version 1.2.5) or via http://192.168.4.2/wifi.html (after version 1.2.5). *Note: If connecting to the from a Mobile Device, you may need to disabnle "Private WiFi-Address" in your phone settings to be able to access the IP address of the ESP Lay-Z-Spa module.*
+8. Configure your device via the DHCP IP (pre-version 1.2.5) or via http://192.168.4.2/wifi.html (after version 1.2.5). *Note: If connecting to the from a Mobile Device, you may need to disable "Private WiFi-Address" in your phone settings to be able to access the IP address of the ESP Lay-Z-Spa module.*
 
 9.  After configuring to your local WiFi AP, access it via the IP assigned by your local network. 
 
