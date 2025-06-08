@@ -20,7 +20,10 @@ We recommend configuring the device offline before connecting to the pump!
 2.	On your phone or any other device with WiFi, you will need to connect to the module via it’s WiFi Access Point. When browsing for WiFi networks, you should see an Access Point is created called "Lay-Z-Spa Module#####".
 3.	To connect to this, you will need the password which is **layzspam0dule**
 4.	Then open a browser and enter address http://192.168.4.2/wifi.html
-      Note: If connecting to the from a Mobile Device, you may need to disable "Private WiFi-Address" in your phone settings to be able to access the IP address of the ESP Lay-Z-Spa module.
+> Note: If connecting to the from a Mobile Device, you may need to disable "Private WiFi-Address" in your phone settings to be able to access the IP address of the ESP Lay-Z-Spa module.
 6.	Fill in the credentials for your own home WiFi network e.g. the one you want to the module to connect to, then press “Save”. Wait a few seconds and restart the module.
 7.	If the module can connect to your Wi-Fi, it will shut down its own access point. You can connect to your own home WiFi network with your phone again.
 8.	If successful, you can browse to the module on your home WiFi network, via http://layzspa.local 
+
+## Credits:
+https://github.com/visualapproach for the original Lay-Z-Spa build.
