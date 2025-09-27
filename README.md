@@ -13,7 +13,9 @@ Requirements: Windows 10 or higher with an available USB port.
 
 3. Wait for a 1-2 minutes for the drivers to be installed for the ESP by Windows otherwise the flashing file won't see the device!
 
-4. Double click the "upload.bat" file; Windows may prompt you as it's an unrecognised Application. Click "More Info", then click "Run anyway" on the proceeding screen.
+4. Double click the "erase.bat" file to ensure that older versions are erased from the flash as this may cause issues; Windows may prompt you as it's an unrecognised Application. Click "More Info", then click "Run anyway" on the proceeding screen. Once erased, then proceed to the next step.
+
+5. Double click the "upload.bat" file; Windows may prompt you as it's an unrecognised Application. Click "More Info", then click "Run anyway" on the proceeding screen.
 
 <img src="https://github.com/mossc001/LayZ-Flash/blob/main/flashing_tool_protected.jpg" width="500">
 
