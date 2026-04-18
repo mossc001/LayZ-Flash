@@ -31,7 +31,7 @@ Do not connect to the pump yet, you should setup the hardware config and other s
 
 1. Go to "Hardware Config" and set the pump model and display model. For the 6-pin it will typically be the "6-wire, ######".
 2. Staying within "Hardware Config", set the PCB to "V2B", then press "Save".
-3. Once set, then disconnect from the USB, and connect to the pump. If the display does not light up but the module is accessible via http://layzspa.local, then the pump model/display model is incorrect in the settings.
+3. Once set, then disconnect from the USB, and connect to the pump. If the display does not light up but the module is accessible via http://layzspa.local, then the pump model/display model is incorrect in the settings. If incorrect, go back and try another pump model and display model.
 
 ## Credits:
 https://github.com/visualapproach for the original Lay-Z-Spa build.
