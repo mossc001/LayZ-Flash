@@ -39,7 +39,7 @@ If you get frequent disconnects, please see the below.
 
 1. The module is 2.4Ghz only, therefore you should setup a dedicated 2.4Ghz SSID; this is fairly normal for IoT Devices such as the ESP modules.
 2. If you're using Corporate hardware like UniFi or Meraki, note the below:
-- ESP8266 do not "like" roaming by default. While the hardware is technically capable of roaming, its default behavior is "sticky." An ESP32 will often cling to its original Access Point (AP) until the signal is virtually non-existent, even if a much stronger AP is right next to it. In corporate environments like Meraki, which use aggressive load balancing and steering, this causes frequent disconnects.
+- ESP8266 do not "like" roaming by default. While the hardware is technically capable of roaming, its default behavior is "sticky." An ESP8266 will often cling to its original Access Point (AP) until the signal is virtually non-existent, even if a much stronger AP is right next to it. In corporate environments like Meraki, which use aggressive load balancing and steering, this causes frequent disconnects.
 
 ## Credits:
 https://github.com/visualapproach for the original Lay-Z-Spa build.
