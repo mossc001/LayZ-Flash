@@ -33,5 +33,13 @@ Do not connect to the pump yet, you should setup the hardware config and other s
 2. Staying within "Hardware Config", set the PCB to "V2B", then press "Save".
 3. Once set, then disconnect from the USB, and connect to the pump. If the display does not light up but the module is accessible via http://layzspa.local, then the pump model/display model is incorrect in the settings. If incorrect, go back and try another pump model and display model.
 
+### WiFi Troubleshooting
+
+If you get frequent disconnects, please see the below.
+
+1. The module is 2.4Ghz only, therefore you should setup a dedicated 2.4Ghz SSID; this is fairly normal for IoT Devices such as the ESP modules.
+2. If you're using Corporate hardware like UniFi or Meraki, note the below:
+- ESP32 do not "like" roaming by default. While the hardware is technically capable of roaming, its default behavior is "sticky." An ESP32 will often cling to its original Access Point (AP) until the signal is virtually non-existent, even if a much stronger AP is right next to it. In corporate environments like Meraki, which use aggressive load balancing and steering, this causes frequent disconnects.
+
 ## Credits:
 https://github.com/visualapproach for the original Lay-Z-Spa build.
